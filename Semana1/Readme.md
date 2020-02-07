@@ -18,7 +18,11 @@
 
   Cada clase asegurate de actualizar contenido que haya añadido yo:
 
+<<<<<<< HEAD
 `git pull https://github.com/alxogm/DA2019 master` 
+=======
+`git pull https://github.com/alxogm/DCIDA2020I`
+>>>>>>> e356f5e1e4cb24e562f7fba70c673225e3842e58
 
   5.- Cuando quieras actualizar tu repositorio, para que contenga los cambios locales que hayas hecho en tu directorio de trabajo, debes primero añadir los archivos a rastrear:
 
@@ -39,9 +43,16 @@
 `git status`
 
   7.- En resumen las instrucciones básicas son:
+<<<<<<< HEAD
 
 `git pull
  git pull https://github.com/alxogm/DCIDA2020I.git master
+=======
+  
+
+`git pull
+ git pull https://github.com/alxogm/DA2019 master
+>>>>>>> e356f5e1e4cb24e562f7fba70c673225e3842e58
  git status
  git add
  git commit
