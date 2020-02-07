@@ -41,7 +41,7 @@
   7.- En resumen las instrucciones básicas son:
 
 `git pull
- git pull https://github.com/alxogm/DA2019 master
+ git pull https://github.com/alxogm/DCIDA2020I.git master
  git status
  git add
  git commit
